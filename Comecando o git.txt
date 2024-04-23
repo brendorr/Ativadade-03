@@ -1,2 +1,2 @@
-Texto para dar conflito na hora do merge
+Tentando provocar conflito novamente
 Apenas testando
